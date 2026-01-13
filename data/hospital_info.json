@@ -1,0 +1,72 @@
+{
+  "general_info": {
+    "name": "City General Hospital",
+    "visiting_hours": "10:00 AM - 12:00 PM and 5:00 PM - 7:00 PM",
+    "emergency_contact": "555-0199",
+    "location": "123 Health Avenue, Wellness City",
+    "parking": "Available in Basement 1 and 2. $5/hour.",
+    "contacts": {
+      "emergency": "555-0199",
+      "general": "555-0100",
+      "billing": "555-0105",
+      "advocacy": "555-0120"
+    }
+  },
+  "departments": [
+    {
+      "name": "Cardiology",
+      "location": "Wing A, 2nd Floor",
+      "head": "Dr. Sarah Heart"
+    },
+    {
+      "name": "Orthopedics",
+      "location": "Wing B, 1st Floor",
+      "head": "Dr. Bone Setter"
+    },
+    {
+      "name": "Pediatrics",
+      "location": "Wing C, 3rd Floor",
+      "head": "Dr. Kid Care"
+    },
+    {
+      "name": "Neurology",
+      "location": "Wing A, 4th Floor",
+      "head": "Dr. Brain Smart"
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. Sarah Heart",
+      "specialty": "Cardiologist",
+      "availability": "Mon, Wed, Fri: 10AM - 2PM"
+    },
+    {
+      "name": "Dr. Bone Setter",
+      "specialty": "Orthopedic Surgeon",
+      "availability": "Tue, Thu: 9AM - 1PM"
+    },
+    {
+      "name": "Dr. Kid Care",
+      "specialty": "Pediatrician",
+      "availability": "Mon-Fri: 9AM - 4PM"
+    },
+    {
+      "name": "Dr. Brain Smart",
+      "specialty": "Neurologist",
+      "availability": "Wed, Fri: 1PM - 5PM"
+    }
+  ],
+  "billing": {
+    "insurance_accepted": [
+      "BlueCross",
+      "Aetna",
+      "Medicare",
+      "UnitedHealth"
+    ],
+    "payment_methods": [
+      "Credit Card",
+      "Cash",
+      "Insurance Co-pay"
+    ]
+  }
+}
